@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\GameProject_1.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{E32E722B-4FC3-4F34-BCF0-09B0F5BDD4E2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GameProject_1.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\GameProject_1Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{9651A997-704B-4354-8956-C85D0EAF62A1}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\GameProject_1">
+			<UniqueIdentifier>{1E422390-FB5A-428E-BB15-8C98FD6BA85A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GameProject_1\GameProject_1.Build.cs">
+			<Filter>Source\GameProject_1</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\GameProject_1\GameProject_1.cpp">
+			<Filter>Source\GameProject_1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameProject_1\GameProject_1.h">
+			<Filter>Source\GameProject_1</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GameProject_1\GameProject_1Character.cpp">
+			<Filter>Source\GameProject_1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameProject_1\GameProject_1Character.h">
+			<Filter>Source\GameProject_1</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GameProject_1\GameProject_1GameMode.cpp">
+			<Filter>Source\GameProject_1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameProject_1\GameProject_1GameMode.h">
+			<Filter>Source\GameProject_1</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
